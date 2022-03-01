@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=b8f8fb&height=300&section=header&text=Heechul&fontSize=90&fontColor=000000)
 
+<br><br>
 <h3 align="center"> ♠️Skills </center>
 
 <p align="center">
@@ -8,7 +9,7 @@
   
 </p>
 
-
+<br><br>
 
 <h3 align="center"> ♣️Language </center>
 <p align="center">
