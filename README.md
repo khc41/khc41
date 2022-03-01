@@ -24,4 +24,4 @@
 <br>
 <br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=khc41)](https://solved.ac/khc41)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={khc41})](https://solved.ac/{khc41})
