@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=b8f8fb&height=300&section=header&text=Heechul&fontSize=90&fontColor=000000)
 
 <br><br>
-<h3 align="center"> ♠️Skills </center>
-
+<h2 align="center"> ♠️Skills </center>
+---
 <p align="center">
   
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -13,7 +13,8 @@
 
 <br><br>
 
-<h3 align="center"> ♣️Language </center>
+<h2 align="center"> ♣️Language </center>
+---
 <p align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khc41&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
