@@ -23,6 +23,13 @@
   
 </p>
 
+<p align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khc41&show_icons=true&theme=dracula)
+  
+</p>
+
+
 <br>
 <br>
 
