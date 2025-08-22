@@ -1,11 +1,12 @@
+### 👋 Hi there! I'm Heechul Kang, a Backend Developer.
+I enjoy building robust and scalable backend systems.
 
-<h2 align="center"> Language </center>
+I'm passionate about learning new technologies and sharing knowledge with my peers.
 
-<p align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khc41&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</p>
+### 🌱 I'm currently contributing to
+- Spring Cloud AWS: Implemented automatic request batching for SQS, significantly improving performance and reducing costs by leveraging the AWS SDK's SqsAsyncBatchManager. This allows for declarative batching through configuration without requiring code changes in existing applications.
+
+[feat: Add automatic SQS request batching support #1438](https://github.com/awspring/spring-cloud-aws/pull/1438)
 
 <p align="center">
   
