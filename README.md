@@ -3,7 +3,7 @@ I enjoy building robust and scalable backend systems.
 
 I'm passionate about learning new technologies and sharing knowledge with my peers.
 
-### 🌱 I'm currently contributing to
+### 🚀 Open Source Contributions
 - Spring Cloud AWS: Implemented automatic request batching for SQS, significantly improving performance and reducing costs by leveraging the AWS SDK's SqsAsyncBatchManager.
   - [feat: Add automatic SQS request batching support #1438](https://github.com/awspring/spring-cloud-aws/pull/1438)
 
