@@ -8,13 +8,10 @@ I'm passionate about learning new technologies and sharing knowledge with my pee
   - [feat: Add automatic SQS request batching support #1438](https://github.com/awspring/spring-cloud-aws/pull/1438)
 
 <br>
-<p align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khc41&show_icons=true&theme=dracula)
-  
-</p>
 
-
-<br>
-<br>
+ ### 📚 TIL (Today I Learned)                                                                                                                                                  
+   
+  Documenting what I learn daily as a backend developer — distributed systems, databases, Java/JVM, caching, and more.                                                          
+                                                            
+  > [📖 khc41/TIL](https://github.com/khc41/TIL)
 
