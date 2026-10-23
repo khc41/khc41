@@ -1,7 +1,9 @@
 ### 👋 Hi there! I'm Heechul Kang, a Backend Developer.
-I enjoy building robust and scalable backend systems.
+Backend Engineer | Java, Kotlin, Spring Boot, Distributed Systems
 
-I'm passionate about learning new technologies and sharing knowledge with my peers.
+I build reliable and scalable backend systems, focusing on performance optimization, distributed systems, and production reliability.
+
+I enjoy digging into complex problems, understanding their root causes, and finding practical solutions.
 
 ### 🚀 Open Source Contributions
 - Spring Cloud AWS: Implemented automatic request batching for SQS, significantly improving performance and reducing costs by leveraging the AWS SDK's SqsAsyncBatchManager.
